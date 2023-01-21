@@ -10,17 +10,22 @@ Convolutional Neural Network have various layers of processing which provides mo
 
 A Convolutional Neural Network is a special type of an Artificial Intelligence implementation which uses a special mathematical matrix manipulation called the convolution operation to process data from images.
 
-# Data Source
+## Data Source
 train = contains the training data/images for teaching our model.
 
 val = contains images which we will use to validate our model. The purpose of this data set is to prevent our model from Overfitting. Overfitting is when your model gets a little too comfortable with the training data and can't handle data it hasn't see....too well.
 
 test = this contains the data that we use to test the model once it has learned the relationships between the images and their label (Tumor/Not-Tumor)
 
-# Model training
+## Model training
 
 Epochs = 9
 Steps per Epochs = 8
 Validatiob Steps = 20
 
 Result accuracy depends on Epochs, more the number of epochs , more accurate results
+
+## Screenhshots
+![braint-1](https://user-images.githubusercontent.com/83701005/213883110-86306995-819b-4a3a-a2d9-12e2e6cdd9f1.jpg)
+
+![braintumor_2](https://user-images.githubusercontent.com/83701005/213883115-bc51d740-8fc0-4ca7-9fc7-399f797457d5.jpg)
