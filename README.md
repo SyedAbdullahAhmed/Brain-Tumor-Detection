@@ -19,9 +19,9 @@ test = this contains the data that we use to test the model once it has learned 
 
 ## Model training
 
-Epochs = 9
-Steps per Epochs = 8
-Validatiob Steps = 20
+Epochs = 20
+Steps per Epochs = 12
+Validatiob Steps = 25
 
 Result accuracy depends on Epochs, more the number of epochs , more accurate results
 
