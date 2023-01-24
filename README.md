@@ -26,6 +26,7 @@ Validatiob Steps = 25
 Result accuracy depends on Epochs, more the number of epochs , more accurate results
 
 ## Screenhshots
+GUI screenshot
 ![braint-1](https://user-images.githubusercontent.com/83701005/213883110-86306995-819b-4a3a-a2d9-12e2e6cdd9f1.jpg)
 
 ![braintumor_2](https://user-images.githubusercontent.com/83701005/213883115-bc51d740-8fc0-4ca7-9fc7-399f797457d5.jpg)
