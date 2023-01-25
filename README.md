@@ -19,6 +19,8 @@ test = this contains the data that we use to test the model once it has learned 
 
 ## Model training
 
+![brain](https://user-images.githubusercontent.com/83701005/214518291-1f213f53-1694-4467-8447-ca5779c39380.jpg)
+
 Epochs = 20
 Steps per Epochs = 12
 Validatiob Steps = 25
